@@ -1,0 +1,11 @@
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\9_Github\12_GuruOfPython\Read-Excel-File-in-C-\Read_XLSX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
